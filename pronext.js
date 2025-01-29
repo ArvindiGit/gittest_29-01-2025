@@ -1,6 +1,6 @@
 const pronext = () => {
   return (
-    <div>pronext</div>
+    <div>pronel fla jfxt</div>
   )
 }
 export default pronext
